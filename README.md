@@ -3,7 +3,9 @@ Full Stack Developer
 🚀 Passionate about crafting dynamic web applications that elevate user experiences. With a strong foundation in the M.E.R.N stack (MongoDB, Express.js, React, Node.js). I love solving problems and continuously seek opportunities to improve my skills and contribute to impactful projects. 🌟 Always eager to learn and grow, I embrace every opportunity to collaborate with fellow developers and engage in meaningful discussions about technology and design.
 
 🌍  I'm based in Vadodara,Gujarat,India
-✉️  You can contact me at shivammourya1704@gmail.com
+
+✉️  You can contact me at shivammourya1704@gmail.com 
+
 🤝  I'm open to collaborating on MERN Projects
 
 
